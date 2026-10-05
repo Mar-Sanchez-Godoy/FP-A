@@ -1,7 +1,5 @@
 # FP&A
 
-### Financial Planning & Analysis 
-
 ## Objetivo
 Este proyecto replica la operativa financiera de un banco español cotizado en el IBEX 35 con el objetivo de comprender los factores que impulsan su rentabilidad y construir un modelo de planificación financiera capaz de explicar cómo genera beneficios, qué riesgos amenazan dichos beneficios y cómo evolucionan los resultados bajo distintos escenarios.
 
