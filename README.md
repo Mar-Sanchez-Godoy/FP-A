@@ -2,9 +2,6 @@
 
 ### Financial Planning & Analysis 
 
-Proyecto personal · 2026 
-
-
 # Objetivo
 Este proyecto replica la operativa financiera de un banco español cotizado en el IBEX 35 con el objetivo de comprender los factores que impulsan su rentabilidad y construir un modelo de planificación financiera capaz de explicar cómo genera beneficios, qué riesgos amenazan dichos beneficios y cómo evolucionan los resultados bajo distintos escenarios.
 
@@ -20,8 +17,9 @@ Ciclo de planificación, análisis y toma de decisiones
 
 
 ### ETAPA
-### PREGUNTA PRINCIPAL
-### FUNCIÓN
+PREGUNTA PRINCIPAL
+FUNCIÓN
+
 ### Business
 ¿Cómo funciona el negocio?
 Entender modelo de negocio y generación de resultados
